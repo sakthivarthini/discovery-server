@@ -11,10 +11,7 @@ logging:
       springframework:
         boot: INFO
         web: INFO
-
-        server:
-           port: 8761
-
+        
 ---
 spring:
   config:
